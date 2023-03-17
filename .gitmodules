@@ -1,0 +1,6 @@
+[submodule "moneymind/serverSide"]
+	path = moneymind/serverSide
+	url = https://github.com/ThomasPalma1/FatecAPI-Server
+[submodule "moneymind/clientSide"]
+	path = moneymind/clientSide
+	url = https://github.com/ThomasPalma1/FatecAPI-Client
