@@ -40,24 +40,24 @@ As a way of analyzing the amounts charged for various services among Open Financ
         <td align="center">Sprint 01</td> 
         <td align="center">In Progress</td>
         <td align="center"></td>
-        <td align="center"><p><a href="https://github.com/ThomasPalma1/FatecAPI-05/tree/main/docs/readmes#readme">Click to view</a></p></td>
+        <td align="center"><p><a href="">Click to view</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">Not started</td>
         <td align="center"></td>
-        <td align="center"><p><a href="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/readmes/README_sprint2.md">Click to view</a></p></td>
+        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
         <td align="center">Not started</td>
         <td align="center"></td>
-        <td align="center"><p><a href="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/readmes/README_sprint3.md">Click to view</a></p></td>
+        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
         <td align="center"></td>
-        <td align="center"><p><a href="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/readmes/README_sprint4.md">Click to view</a></p></td>
+        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
         
     
@@ -69,7 +69,7 @@ As a way of analyzing the amounts charged for various services among Open Financ
     <tr>
         <td align="center">
             <a href="https://www.linkedin.com/in/pedro-ferreira-6a8417190/">
-                <img src="https://github.com/ThomasPalma1/FatecAPI-03/blob/main/docs/Equipe/pedro.jpg" width="100px;" alt="" /><br />
+                <img src="https://avatars.githubusercontent.com/u/70727334?v=4" width="100px;" alt="" /><br />
                 <sub><b>Pedro Ferreira</b></sub>
             </a>
             <br />
@@ -95,7 +95,7 @@ As a way of analyzing the amounts charged for various services among Open Financ
    <tr>
           <td align="center">
             <a href="https://www.linkedin.com/in/juliane-freitas-9b6287163">
-                <img src="https://github.com/ThomasPalma1/FatecAPI-03/raw/main/docs/Equipe/Juliane.jfif" width="100px;" alt="" /><br />
+                <img src="https://avatars.githubusercontent.com/u/70216694?v=4" width="100px;" alt="" /><br />
                 <sub><b>Juliane Freitas</b></sub>
             </a>
             <br />
@@ -111,7 +111,7 @@ As a way of analyzing the amounts charged for various services among Open Financ
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/thomas-palma-0764b81b3/">
-                <img src="https://github.com/ThomasPalma1/FatecAPI-03/blob/main/docs/Equipe/Thomas.jfif" width="100px;" alt="" /><br />
+                <img src="https://avatars.githubusercontent.com/u/66331874?v=4" width="100px;" alt="" /><br />
                 <sub><b>Thomas Palma</b></sub>
             </a>
             <br />
@@ -189,6 +189,6 @@ As a way of analyzing the amounts charged for various services among Open Financ
 
 <div align="center">
     <h3 align="center">
-        <img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/figma.gif" alt="" /><br />
+        <img src="" alt="" /><br />
     </h3>
 </div>
