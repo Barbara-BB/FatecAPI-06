@@ -27,6 +27,7 @@ As a way of analyzing the amounts charged for various services among Open Financ
 <h2>🚫 Solution Limits and Restrictions</h2>
 
 <p align="justify">               
+
 * Website response time must be below 1000ms in 99.99% of requests.
 
 * The system must contain metrics that help to observe its behavior: Number of requests, response time, Number and percentage of failures when obtaining data from Golden Sources. </p>
