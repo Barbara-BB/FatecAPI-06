@@ -3,12 +3,18 @@
        
 <h2>📖 Description</h2>
       
-<p align="justify"></p>
+<p align="justify"> Since 2020, the Central Bank of Brazil has been working to establish a new way of
+intercommunication between banks, companies and customers, via the platform called Open Finance Brasil.
+
+Traditionally, banks have always been very secretive when it comes to the
+storage of their customers data, and now there is a new paradigm that will generate endless possibilities for the integration and creation of new products and services.
+
+As a way of analyzing the amounts charged for various services among Open Finance participants, we have the challenge of presenting, in an intuitive and fluid way, a price comparison tool using the data provided through Open Finance.</p>
 
               
 <h2>🎯 Project's Goal</h2>
 
-<p align="justify"></p>
+<p align="justify">The goal of the project is to develop a price comparison tool that utilizes the data provided via Open Finance, and for said data to be presented in an intuitive and fluid manner for the user.</p>
 
 <h2>🎁 Main Features</h2>      
               
