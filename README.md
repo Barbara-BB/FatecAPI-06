@@ -25,12 +25,16 @@ As a way of analyzing the amounts charged for various services among Open Financ
 * A tariff price comparison tool where the user can compare the prices of: products/services, banks, currencies.</p>
        
 <h2>🚫 Solution Limits and Restrictions</h2>
-               
 
-       
+<p align="justify">               
+* Website response time must be below 1000ms in 99.99% of requests.
+
+* The system must contain metrics that help to observe its behavior: Number of requests, response time, Number and percentage of failures when obtaining data from Golden Sources. </p>
 <h2>🚀 Benefits of our platform</h2>
    
+<p align="justify"> Our platform has many benefits, such as being able to compare the price of tariffs of banks, the value of currencies and products and services. Moreover it also allows the user to check the rates of services and products such as fees, currencies, rates and much more. 
 
+Additionally, the platform also has a ranking dashboard in which the user can check rankings such as the top five banks with lowest fees over a period of time and the bank with the lowest or highest fees. </p> 
               
 <h2 align="center">🗂 Report of Each Delivery</h2>
 
