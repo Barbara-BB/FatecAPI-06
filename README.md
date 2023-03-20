@@ -20,9 +20,9 @@ As a way of analyzing the amounts charged for various services among Open Financ
               
 <p align="justify">The main features of the project are as follows:
        
-*A panel for checking the rates of products/services in the following categories: Banks, products/services, currencies, fees, range, rates
-*A ranking dashboard which contains the following categories: bank with lowest, highest fees; timeline of the average of a tariff with trend; top five banks with lowest fees over a period.
-*A tariff price comparison tool where the user can compare the prices of: products/services, banks, currencies.</p>
+* A panel for checking the rates of products/services in the following categories: Banks, products/services, currencies, fees, range, rates
+* A ranking dashboard which contains the following categories: bank with lowest, highest fees; timeline of the average of a tariff with trend; top five banks with lowest fees over a period.
+* A tariff price comparison tool where the user can compare the prices of: products/services, banks, currencies.</p>
        
 <h2>🚫 Solution Limits and Restrictions</h2>
                
