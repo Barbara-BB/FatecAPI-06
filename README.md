@@ -171,27 +171,39 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <th align="center">Goal</th>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"</td>
+        <td align="center"><img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" width="40" height="40"</td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
+        <td align="center"><img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" width="40" height="40"/></td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
         <td align="center"></td>
     </tr>
     <tr>
@@ -202,7 +214,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <h2>🚧 Project Prototype</h2>
               
-<p align="justify"> This is our prototype in <a href="">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
+<p align="justify"> This is our prototype in <a href="https://www.figma.com/file/jMCu3TlAj0V2WdrlGG78fS/Money-Mind-drafts?node-id=77-537&t=sGOxF3HAvJ3O3SN2-0">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
 
 <div align="center">
     <h3 align="center">
