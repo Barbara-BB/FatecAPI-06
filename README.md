@@ -174,35 +174,35 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" width="40" height="40"</td>
-        <td align="center"></td>
+        <td align="center">JavaScript framework used on the front-end for developing user interfaces and single-page applications.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Programming language used on the front-end.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Spring is a framework for Java that facilitates creation using independent modules.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Manage and manipulate the data necessary for the application to function, such as storing banks and services.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Programming language used on the AI for machine learning.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Python-friendly open-source library for numerical computing, used on the AI for machine learning.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Scikit-learn is an open source machine learning library for the Python programming language, used on the AI for machine learning.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center">Object oriented programming language used on the server-side.</td>
     </tr>
     <tr>
         <td align="center"><img src="" width="40" height="40"/></td>
