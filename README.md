@@ -77,6 +77,14 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 <table align="center">
     <tr>
         <td align="center">
+            <a href="https://www.linkedin.com/in/andr%C3%A9-da-silva-e-silva-63a4621ba/">
+                <img src="https://avatars.githubusercontent.com/u/71703515?v=4" width="100px;" alt="" /><br />
+                <sub><b>André Silva</b></sub>
+            </a>
+            <br />
+            <sub><b>Product Owner</b></sub>
+        </td>
+        <td align="center">
             <a href="https://br.linkedin.com/in/barbara-bidetti-bb910a1b3">
                 <img src="https://avatars.githubusercontent.com/u/60778277?v=4" width="100px;" alt="" /><br />
                 <sub><b>Barbara Bidetti</b></sub>
@@ -85,12 +93,12 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
             <sub><b>Scrum Master</b></sub>
         </td>
         <td align="center">
-            <a href="https://www.linkedin.com/in/andr%C3%A9-da-silva-e-silva-63a4621ba/">
-                <img src="https://avatars.githubusercontent.com/u/71703515?v=4" width="100px;" alt="" /><br />
-                <sub><b>André Silva</b></sub>
+            <a href="https://www.linkedin.com/in/elias-ferreira-525ba41b6">
+                <img src="https://avatars.githubusercontent.com/u/71013006?v=4" width="100px;" alt="" /><br />
+                <sub><b>Elias Ferreira</b></sub>
             </a>
             <br />
-            <sub><b>Product Owner</b></sub>
+            <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/">
@@ -109,11 +117,11 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
             <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
-            <a href="https://www.linkedin.com/in/elias-ferreira-525ba41b6">
-                <img src="https://avatars.githubusercontent.com/u/71013006?v=4" width="100px;" alt="" /><br />
-                <sub><b>Elias Ferreira</b></sub>
-            </a>
-            <br />
+           <a href="https://www.linkedin.com/in/pedro-ferreira-6a8417190/">
+                <img src="https://avatars.githubusercontent.com/u/70727334?v=4" width="100px;" alt="" /><br />
+                <sub><b>Pedro Ferreira</b></sub>
+           </a>
+          <br />
             <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
@@ -122,14 +130,6 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
                 <sub><b>Thomas Palma</b></sub>
             </a>
             <br />
-            <sub><b>Development Team</b></sub>
-        </td>
-         <td align="center">
-           <a href="https://www.linkedin.com/in/pedro-ferreira-6a8417190/">
-                <img src="https://avatars.githubusercontent.com/u/70727334?v=4" width="100px;" alt="" /><br />
-                <sub><b>Pedro Ferreira</b></sub>
-           </a>
-          <br />
             <sub><b>Development Team</b></sub>
         </td>
     </tr>
