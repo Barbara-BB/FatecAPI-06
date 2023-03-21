@@ -48,24 +48,24 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
         <td align="center">Sprint 01</td> 
         <td align="center">In Progress</td>
-        <td align="center"></td>
+        <td align="center">13/03 to 02/04</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">03/04 to 23/04</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">24/04 to 14/05</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">15/05 to 04/06</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
         
@@ -99,10 +99,8 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
             </a>
             <br />
             <sub><b>Development Team</b></sub>
-      </td>
-    </tr>
-   <tr>
-          <td align="center">
+         </td>
+         <td align="center">
             <a href="https://www.linkedin.com/in/juliane-freitas-9b6287163">
                 <img src="https://avatars.githubusercontent.com/u/70216694?v=4" width="100px;" alt="" /><br />
                 <sub><b>Juliane Freitas</b></sub>
@@ -172,7 +170,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
-        <td align="center"></td>
+        <td align="center">Elaboration of the interactive prototype, with the purpose of developing ideas and carrying out the simulation of functionalities.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" width="40" height="40"</td>
