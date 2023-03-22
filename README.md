@@ -157,8 +157,8 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 <h2>📌 Project Product Backlog</h2>
               
 
-<img src="">
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg1.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg2.png">
 <img src="">
 
 <h2>🛠 Used Tools</h2>
