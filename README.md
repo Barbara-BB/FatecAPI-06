@@ -178,7 +178,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" width="40" height="40"/></td>
-        <td align="center">Programming language used on the front-end.</td>
+        <td align="center">Programming language used on the front-end to help developing large scale web applications.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
@@ -186,11 +186,11 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
-        <td align="center">Manage and manipulate the data necessary for the application to function, such as storing banks and services.</td>
+        <td align="center">Manage and manipulate the data necessary for the application to function, such as storing financial institutions and services.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
-        <td align="center">Programming language used on the AI for machine learning.</td>
+        <td align="center">Programming language used on the AI for machine learning with data analysis, regression and web development.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
@@ -202,7 +202,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
     <tr>
         <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
-        <td align="center">Object oriented programming language used on the server-side.</td>
+        <td align="center">Object oriented programming language used on the server-side, enabling the creation of dynamic, platform-independent method for building web-based applications.</td>
     </tr>
     <tr>
         <td align="center"><img src="" width="40" height="40"/></td>
