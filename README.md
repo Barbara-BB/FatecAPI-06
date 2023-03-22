@@ -204,10 +204,6 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
         <td align="center">Object oriented programming language used on the server-side, enabling the creation of dynamic, platform-independent method for building web-based applications.</td>
     </tr>
-    <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
-    </tr>
 </table>
 
 <h2>🚧 Project Prototype</h2>
