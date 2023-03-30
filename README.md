@@ -18,15 +18,24 @@ As a way of analyzing the amounts charged for various services among Open Financ
 
 <h2>🎁 Main Features</h2>      
               
-
- 
-<h2>🚫 Solution Limits and Restrictions</h2>
-               
-
+<p align="justify">The main features of the project are as follows:
        
+* A panel for checking the rates of products/services in the following categories: Banks, products/services, currencies, fees, range, rates
+* A ranking dashboard which contains the following categories: bank with lowest, highest fees; timeline of the average of a tariff with trend; top five banks with lowest fees over a period.
+* A tariff price comparison tool where the user can compare the prices of: products/services, banks, currencies.</p>
+       
+<h2>🚫 Solution Limits and Restrictions</h2>
+
+<p align="justify">               
+
+* Website response time must be below 1000ms in 99.99% of requests.
+
+* The system must contain metrics that help to observe its behavior: Number of requests, response time, Number and percentage of failures when obtaining data from Golden Sources. </p>
 <h2>🚀 Benefits of our platform</h2>
    
+<p align="justify"> Our platform has many benefits, such as being able to compare the price of tariffs of banks, the value of currencies and products and services. Moreover it also allows the user to check the rates of services and products such as fees, currencies, rates and much more. 
 
+Additionally, the platform also has a ranking dashboard in which the user can check rankings such as the top five banks with lowest fees over a period of time and the bank with the lowest or highest fees. </p> 
               
 <h2 align="center">🗂 Report of Each Delivery</h2>
 
@@ -39,24 +48,24 @@ As a way of analyzing the amounts charged for various services among Open Financ
     </tr>
         <td align="center">Sprint 01</td> 
         <td align="center">In Progress</td>
-        <td align="center"></td>
+        <td align="center">13/03 to 02/04</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">03/04 to 23/04</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">24/04 to 14/05</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
-        <td align="center"></td>
+        <td align="center">15/05 to 04/06</td>
         <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
         
@@ -68,12 +77,12 @@ As a way of analyzing the amounts charged for various services among Open Financ
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://www.linkedin.com/in/pedro-ferreira-6a8417190/">
-                <img src="https://avatars.githubusercontent.com/u/70727334?v=4" width="100px;" alt="" /><br />
-                <sub><b>Pedro Ferreira</b></sub>
+            <a href="https://www.linkedin.com/in/andr%C3%A9-da-silva-e-silva-63a4621ba/">
+                <img src="https://avatars.githubusercontent.com/u/71703515?v=4" width="100px;" alt="" /><br />
+                <sub><b>André Silva</b></sub>
             </a>
             <br />
-            <sub><b>Scrum Master</b></sub>
+            <sub><b>Product Owner</b></sub>
         </td>
         <td align="center">
             <a href="https://br.linkedin.com/in/barbara-bidetti-bb910a1b3">
@@ -81,7 +90,15 @@ As a way of analyzing the amounts charged for various services among Open Financ
                 <sub><b>Barbara Bidetti</b></sub>
             </a>
             <br />
-            <sub><b>Product Owner</b></sub>
+            <sub><b>Scrum Master</b></sub>
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/elias-ferreira-525ba41b6">
+                <img src="https://avatars.githubusercontent.com/u/71013006?v=4" width="100px;" alt="" /><br />
+                <sub><b>Elias Ferreira</b></sub>
+            </a>
+            <br />
+            <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/">
@@ -90,10 +107,8 @@ As a way of analyzing the amounts charged for various services among Open Financ
             </a>
             <br />
             <sub><b>Development Team</b></sub>
-      </td>
-    </tr>
-   <tr>
-          <td align="center">
+         </td>
+         <td align="center">
             <a href="https://www.linkedin.com/in/juliane-freitas-9b6287163">
                 <img src="https://avatars.githubusercontent.com/u/70216694?v=4" width="100px;" alt="" /><br />
                 <sub><b>Juliane Freitas</b></sub>
@@ -102,11 +117,11 @@ As a way of analyzing the amounts charged for various services among Open Financ
             <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
-            <a href="https://www.linkedin.com/in/elias-ferreira-525ba41b6">
-                <img src="https://avatars.githubusercontent.com/u/71013006?v=4" width="100px;" alt="" /><br />
-                <sub><b>Elias Ferreira</b></sub>
-            </a>
-            <br />
+           <a href="https://www.linkedin.com/in/pedro-ferreira-6a8417190/">
+                <img src="https://avatars.githubusercontent.com/u/70727334?v=4" width="100px;" alt="" /><br />
+                <sub><b>Pedro Ferreira</b></sub>
+           </a>
+          <br />
             <sub><b>Development Team</b></sub>
         </td>
         <td align="center">
@@ -142,8 +157,8 @@ As a way of analyzing the amounts charged for various services among Open Financ
 <h2>📌 Project Product Backlog</h2>
               
 
-<img src="">
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg1.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg2.png">
 <img src="">
 
 <h2>🛠 Used Tools</h2>
@@ -154,38 +169,46 @@ As a way of analyzing the amounts charged for various services among Open Financ
         <th align="center">Goal</th>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
+        <td align="center">Elaboration of the interactive prototype, with the purpose of developing ideas and carrying out the simulation of functionalities.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"</td>
-        <td align="center"></td>
+        <td align="center"><img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" width="40" height="40"</td>
+        <td align="center">JavaScript framework used on the front-end for developing user interfaces and single-page applications.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">Programming language used on the front-end to help developing large scale web applications.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
+        <td align="center">Spring is a framework for Java that facilitates creation using independent modules.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+        <td align="center">Manage and manipulate the data necessary for the application to function, such as storing financial institutions and services.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+        <td align="center">Programming language used on the AI for machine learning with data analysis, regression and web development.</td>
     </tr>
     <tr>
-        <td align="center"><img src="" width="40" height="40"/></td>
-        <td align="center"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
+        <td align="center">Python-friendly open-source library for numerical computing, used on the AI for machine learning.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
+        <td align="center">Scikit-learn is an open source machine learning library for the Python programming language, used on the AI for machine learning.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">Object oriented programming language used on the server-side, enabling the creation of dynamic, platform-independent method for building web-based applications.</td>
     </tr>
 </table>
 
 <h2>🚧 Project Prototype</h2>
               
-<p align="justify"> This is our prototype in <a href="">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
+<p align="justify"> This is our prototype in <a href="https://www.figma.com/file/jMCu3TlAj0V2WdrlGG78fS/Money-Mind-drafts?node-id=77-537&t=sGOxF3HAvJ3O3SN2-0">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
 
 <div align="center">
     <h3 align="center">
