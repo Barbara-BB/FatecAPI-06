@@ -139,14 +139,9 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <h2>📚 User Stories</h2>
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg1.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg2.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg3.png">
 
 <h2>📅 Cards for Each Delivery</h2>
 
