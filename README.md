@@ -139,19 +139,14 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <h2>📚 User Stories</h2>
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg1.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg2.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User%20Stories_pg3.png">
 
 <h2>📅 Cards for Each Delivery</h2>
 
 
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/cards.png">
               
 
 <h2>📌 Project Product Backlog</h2>
@@ -206,8 +201,13 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
 </table>
 
+<h2>🎨 Wireframe</h2>
+<p>These are initial sketches for understanding the platform</p>
+
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/wireframe.gif" width="800" height="500"/>
+
 <h2>🚧 Project Prototype</h2>
-              
+
 <p align="justify"> This is our prototype in <a href="https://www.figma.com/file/jMCu3TlAj0V2WdrlGG78fS/Money-Mind-drafts?node-id=77-537&t=sGOxF3HAvJ3O3SN2-0">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
 
 <div align="center">
