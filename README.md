@@ -212,6 +212,9 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <div align="center">
     <h3 align="center">
-        <img src="" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/login.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/dashboard.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/painel.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/comparador.gif" alt="" /><br />
     </h3>
 </div>
