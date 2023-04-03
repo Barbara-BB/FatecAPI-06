@@ -44,29 +44,24 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <th align="center">Deliveries</th>
         <th align="center">Situation</th>
         <th align="center">Development Period</th>
-        <th align="center">Individual Description</th>
     </tr>
         <td align="center">Sprint 01</td> 
         <td align="center">In Progress</td>
         <td align="center">13/03 to 02/04</td>
-        <td align="center"><p><a href="">Click to view</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">Not started</td>
         <td align="center">03/04 to 23/04</td>
-        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
         <td align="center">Not started</td>
         <td align="center">24/04 to 14/05</td>
-        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
         <td align="center">15/05 to 04/06</td>
-        <td align="center"><p><a href="">Click to view</a></p></td>
     </tr>
         
     
@@ -154,7 +149,6 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg1.png">
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg2.png">
-<img src="">
 
 <h2>🛠 Used Tools</h2>
 
@@ -212,6 +206,16 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <div align="center">
     <h3 align="center">
-        <img src="" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/login.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/dashboard.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/painel.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/comparador.gif" alt="" /><br />
+    </h3>
+</div>
+
+<h2> 🏆 Minimum Viable Product</h2>
+<div align="center">
+    <h3 align="center">
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint1.gif" alt="" /><br />
     </h3>
 </div>
