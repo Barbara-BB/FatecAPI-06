@@ -44,25 +44,41 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <th align="center">Deliveries</th>
         <th align="center">Situation</th>
         <th align="center">Development Period</th>
+        <th align="center">Client Release</th>
+        <th align="center">Server Release</th>
+        <th align="center">Scraper Release</th>
     </tr>
         <td align="center">Sprint 01</td> 
-        <td align="center">In Progress</td>
+        <td align="center">Finished</td>
         <td align="center">13/03 to 02/04</td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Client/releases/tag/v0.1">1st Client Release</a></p></td>
+        <td align="center"><p align="justify"><a href="">1st Server Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper/releases/tag/v0.1">1st Scraper Release</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
-        <td align="center">Not started</td>
+        <td align="center">In Progress</td>
         <td align="center">03/04 to 23/04</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
         <td align="center">Not started</td>
         <td align="center">24/04 to 14/05</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
         <td align="center">15/05 to 04/06</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
+ 
         
     
 </table>
@@ -202,7 +218,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <h2>🚧 Project Prototype</h2>
 
-<p align="justify"> This is our prototype in <a href="https://www.figma.com/file/jMCu3TlAj0V2WdrlGG78fS/Money-Mind-drafts?node-id=77-537&t=sGOxF3HAvJ3O3SN2-0">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
+<p align="justify"> This is our prototype in <a href="https://www.figma.com/proto/jMCu3TlAj0V2WdrlGG78fS/Money-Mind?node-id=293-845&scaling=contain&page-id=0%3A1&starting-point-node-id=293%3A845">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
 
 <div align="center">
     <h3 align="center">
