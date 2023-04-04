@@ -157,7 +157,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 <h2>📅 Cards for Each Delivery</h2>
 
 
-<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/cards.png">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/cards.PNG">
               
 
 <h2>📌 Project Product Backlog</h2>
