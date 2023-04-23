@@ -1,6 +1,5 @@
 <h1 align="center">MoneyMind | 6th Semester</h1>
 
-       
 <h2>📖 Description</h2>
       
 <p align="justify"> Since 2020, the Central Bank of Brazil has been working to establish a new way of
@@ -11,7 +10,6 @@ storage of their customers data, and now there is a new paradigm that will gener
 
 As a way of analyzing the amounts charged for various services among Open Finance participants, we have the challenge of presenting, in an intuitive and fluid way, a price comparison tool using the data provided through Open Finance.</p>
 
-              
 <h2>🎯 Project's Goal</h2>
 
 <p align="justify">The goal of the project is to develop a price comparison tool that utilizes the data provided via Open Finance, and for said data to be presented in an intuitive and fluid manner for the user.</p>
@@ -26,17 +24,17 @@ As a way of analyzing the amounts charged for various services among Open Financ
        
 <h2>🚫 Solution Limits and Restrictions</h2>
 
-<p align="justify">               
+<p align="justify">
 
-* Website response time must be below 1000ms in 99.99% of requests.
+- Website response time must be below 1000ms in 99.99% of requests.
 
-* The system must contain metrics that help to observe its behavior: Number of requests, response time, Number and percentage of failures when obtaining data from Golden Sources. </p>
+- The system must contain metrics that help to observe its behavior: Number of requests, response time, Number and percentage of failures when obtaining data from Golden Sources. </p>
 <h2>🚀 Benefits of our platform</h2>
-   
-<p align="justify"> Our platform has many benefits, such as being able to compare the price of tariffs of banks, the value of currencies and products and services. Moreover it also allows the user to check the rates of services and products such as fees, currencies, rates and much more. 
 
-Additionally, the platform also has a ranking dashboard in which the user can check rankings such as the top five banks with lowest fees over a period of time and the bank with the lowest or highest fees. </p> 
-              
+<p align="justify"> Our platform has many benefits, such as being able to compare the price of tariffs of banks, the value of currencies and products and services. Moreover it also allows the user to check the rates of services and products such as fees, currencies, rates and much more.
+
+Additionally, the platform also has a ranking dashboard in which the user can check rankings such as the top five banks with lowest fees over a period of time and the bank with the lowest or highest fees. </p>
+
 <h2 align="center">🗂 Report of Each Delivery</h2>
 
 <table align="center">
@@ -54,6 +52,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Client/releases/tag/v0.1">1st Client Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Server/releases/tag/v0.1">1st Server Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper/releases/tag/v0.1">1st Scraper Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint1">Sprint1</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">In Progress</td>
@@ -61,6 +60,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
+        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint2">Sprint2</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
@@ -145,8 +145,6 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         </td>
     </tr>
 </table>
-       
-
 
 <h2>📚 User Stories</h2>
 
@@ -156,12 +154,9 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
 
 <h2>📅 Cards for Each Delivery</h2>
 
-
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/cards.PNG">
-              
 
 <h2>📌 Project Product Backlog</h2>
-              
 
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg1.png">
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg2.png">
@@ -226,12 +221,5 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/dashboard.gif" alt="" /><br />
         <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/painel.gif" alt="" /><br />
         <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/comparador.gif" alt="" /><br />
-    </h3>
-</div>
-
-<h2> 🏆 Minimum Viable Product</h2>
-<div align="center">
-    <h3 align="center">
-        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint1.gif" alt="" /><br />
     </h3>
 </div>
