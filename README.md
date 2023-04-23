@@ -45,6 +45,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <th align="center">Client Release</th>
         <th align="center">Server Release</th>
         <th align="center">Scraper Release</th>
+        <th align="center">Sprint</th>
     </tr>
         <td align="center">Sprint 01</td> 
         <td align="center">Finished</td>
@@ -52,7 +53,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Client/releases/tag/v0.1">1st Client Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Server/releases/tag/v0.1">1st Server Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper/releases/tag/v0.1">1st Scraper Release</a></p></td>
-        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint1">Sprint1</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint1.md">Sprint1</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
         <td align="center">In Progress</td>
@@ -60,7 +61,7 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint2">Sprint2</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint2.md">Sprint2</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
@@ -69,11 +70,13 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
+        <td align="center"></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>
         <td align="center">Not started</td>
         <td align="center">15/05 to 04/06</td>
+        <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
