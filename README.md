@@ -56,16 +56,16 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint1.md">Sprint1</a></p></td>
      <tr>
         <td align="center">Sprint 02</td>
-        <td align="center">In Progress</td>
+        <td align="center">Finished</td>
         <td align="center">03/04 to 23/04</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Client/releases/tag/v0.2">2nd Client Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Server/releases/tag/v0.2">2nd Server Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper/releases/tag/v0.2">2nd Scraper Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint2.md">Sprint2</a></p></td>
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
-        <td align="center">Not started</td>
+        <td align="center">In Progress</td>
         <td align="center">24/04 to 14/05</td>
         <td align="center"></td>
         <td align="center"></td>
