@@ -38,6 +38,6 @@
 <h2> 🏆 Minimum Viable Product - Sprint 1</h2>
 <div align="center">
     <h3 align="center">
-        <img src="" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint2.gif" alt="" /><br />
     </h3>
 </div>
