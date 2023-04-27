@@ -35,7 +35,7 @@
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Client">Frontend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Server">Backend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper">Scrapper</a></p>
-<h2> 🏆 Minimum Viable Product - Sprint 1</h2>
+<h2> 🏆 Minimum Viable Product - Sprint 2</h2>
 <div align="center">
     <h3 align="center">
         <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint2.gif" alt="" /><br />
