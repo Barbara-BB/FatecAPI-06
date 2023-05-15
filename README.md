@@ -65,12 +65,12 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
     </tr>
          <tr>
         <td align="center">Sprint 03</td>
-        <td align="center">In Progress</td>
+        <td align="center">Finished</td>
         <td align="center">24/04 to 14/05</td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"></td>
+        <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint3.md">Sprint3</a></p></td>
     </tr>
           <tr>
         <td align="center">Sprint 04</td>

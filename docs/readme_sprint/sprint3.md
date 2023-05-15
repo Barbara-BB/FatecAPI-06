@@ -1,12 +1,17 @@
-<h1 align="center">MoneyMind | 6th Semester - Sprint 2</h1>
+<h1 align="center">MoneyMind | 6th Semester - Sprint 3</h1>
 <h2>📖 User Story</h2>
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User Story_sprint3.png">
 
 <h2>📌 Project Product Backlog</h2>
 <img src="">
 
 <h2>📅 Cards for Each Delivery</h2>
-<img src="">
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/CARD_sprint3.png">
+
+## 🚦 DoR (Definition of Ready)
+
+## ✅ DoD (Definition of Done)
+
 <h2>🚧 Project Prototype</h2>
 
 <p align="justify"> This is our prototype in <a href="https://www.figma.com/proto/jMCu3TlAj0V2WdrlGG78fS/Money-Mind?node-id=293-845&scaling=contain&page-id=0%3A1&starting-point-node-id=293%3A845">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
