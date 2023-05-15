@@ -2,19 +2,18 @@
 <h2>📖 User Story</h2>
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/User Story_sprint3.png">
 
-<h2>📌 Project Product Backlog</h2>
-<img src="">
-
 <h2>📅 Cards for Each Delivery</h2>
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/CARD_sprint3.png">
 
 ## 🚦 DoR (Definition of Ready)
+
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg3.png">
 
 ## ✅ DoD (Definition of Done)
-- **US11** - *As a user, I want to compare data using a comparator*
+
+- **US11** - _As a user, I want to compare data using a comparator_
   - Application must have a comparator for service fees, in which the user can select two financial institutions and the type of service (natural person or legal entity). The user can compare up to five services at a time.
-<h2>🚧 Project Prototype</h2>
+  <h2>🚧 Project Prototype</h2>
 
 <p align="justify"> This is our prototype in <a href="https://www.figma.com/proto/jMCu3TlAj0V2WdrlGG78fS/Money-Mind?node-id=293-845&scaling=contain&page-id=0%3A1&starting-point-node-id=293%3A845">Figma</a>! It represents what the application should look like in its final form, and all developers should adhere to the details presented as closely as possible.</p>
 
