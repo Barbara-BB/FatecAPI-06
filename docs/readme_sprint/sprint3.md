@@ -57,7 +57,7 @@
     <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/CreditUnions_x_Others.png" alt="Credit Unions x Others" /><br />
         <p style="font-size:16px">Categories without credit unions</p>
     <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Categories_without_credit_unions.png" alt="Categories without credit unions" /><br />
-    <p style="font-size:16px"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/EDA_Open_Finance.ipynb">
+    <p style="font-size:16px"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/EDA/EDA_Open_Finance.ipynb">
 for more information visit the EDA</a></p>
 
 </div>
