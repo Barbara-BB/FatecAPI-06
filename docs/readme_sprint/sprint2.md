@@ -9,8 +9,11 @@
 <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/CARD_sprint2.png">
 
 ## 🚦 DoR (Definition of Ready)
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Product_Backlog_sprint2.png">
 
 ## ✅ DoD (Definition of Done)
+- **US02** - *As a user, I want to dynamically filter the following options: banks, product/service, currency, rate, range and rate*
+  - Application must have a panel in which the user can check the services fees for any financial institutions and the type of service (natural person or legal entity).
 
 <h2>🚧 Project Prototype</h2>
 
