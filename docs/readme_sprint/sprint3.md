@@ -48,6 +48,19 @@
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Client">Frontend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Server">Backend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper">Scrapper</a></p>
+<div align="center">
+    <h3 style="font-size:24px align="center">Initial Analysis - IA -  preview sprint 4</h3>
+    <h4 style="font-size:18px align="center">EDA created for bank category analysis</h4>
+    <p style="font-size:16px">Number of banks by category</p>
+    <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Number_of banks_by_category.png" alt="Number of banks by category" /><br />
+    <p style="font-size:16px">Credit Unions x Others</p>
+    <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/CreditUnions_x_Others.png" alt="Credit Unions x Others" /><br />
+        <p style="font-size:16px">Categories without credit unions</p>
+    <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Categories_without_credit_unions.png" alt="Categories without credit unions" /><br />
+    <p style="font-size:16px"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/EDA_Open_Finance.ipynb">
+for more information visit the EDA</a></p>
+
+</div>
 <h2> 🏆 Minimum Viable Product - Sprint 3</h2>
 <div align="center">
     <h3 align="center">
