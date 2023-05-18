@@ -67,9 +67,9 @@ Additionally, the platform also has a ranking dashboard in which the user can ch
         <td align="center">Sprint 03</td>
         <td align="center">Finished</td>
         <td align="center">24/04 to 14/05</td>
-        <td align="center"><p align="justify"><a href="">3rd Client Release</a></p></td>
-        <td align="center"><p align="justify"><a href="">3rd Server Release</a></p></td>
-        <td align="center"><p align="justify"><a href="">3rd Scraper Release</a>       </p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Client/releases/tag/v0.3">3rd Client Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Server/releases/tag/v0.3">3rd Server Release</a></p></td>
+        <td align="center"><p align="justify"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper/releases/tag/v0.3">3rd Scraper Release</a></p></td>
         <td align="center"><p align="justify"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/readme_sprint/sprint3.md">Sprint 3</a></p></td>
     </tr>
           <tr>
