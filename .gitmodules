@@ -7,3 +7,6 @@
 [submodule "moneymind/webScraper"]
 	path = moneymind/webScraper
 	url = https://github.com/ThomasPalma1/FatecAPI-Scraper
+[submodule "moneymind/dataset"]
+	path = moneymind/dataset
+	url = https://github.com/ThomasPalma1/FatecAPI-Dataset
