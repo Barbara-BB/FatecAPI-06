@@ -8,7 +8,7 @@
 ## 🚦 DoR (Definition of Ready)
 
 - **📜 Backlog:**
-<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg4.png">
+  <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/product_backlog_pg4.png">
 
 - **🤖 Machine Learning:**
   - Processing and consolidation of BCB data
@@ -21,6 +21,7 @@
 ## ✅ DoD (Definition of Done)
 
 - **US08** - _As an administrator, I want to get application logging_
+
   - Application must have an application logging.
 
 - **US09** - _As a user, I want to receive automated suggestions based on services used_
@@ -69,8 +70,11 @@
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Client">Frontend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Server">Backend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper">Scrapper</a></p>
+
+</div>
+<h2> 🏆 Minimum Viable Product - Sprint 4</h2>
 <div align="center">
-    <h3 style="font-size:24px align="center">Initial Analysis - IA -  preview sprint 4</h3>
+    <h3 style="font-size:24px align="center">Initial Analysis - IA - sprint 4</h3>
     <h4 style="font-size:18px align="center">EDA created for bank category analysis</h4>
     <p style="font-size:16px">Number of banks by category</p>
     <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Number_of banks_by_category.png" alt="Number of banks by category" /><br />
@@ -80,11 +84,8 @@
     <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/Categories_without_credit_unions.png" alt="Categories without credit unions" /><br />
     <p style="font-size:16px"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/EDA/EDA_Open_Finance.ipynb">
 for more information visit the EDA</a></p>
-
-</div>
-<h2> 🏆 Minimum Viable Product - Sprint 4</h2>
 <div align="center">
     <h3 align="center">
-        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint4.gif" alt="" /><br />
+        <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/IA.gif" alt="" /><br />
     </h3>
 </div>
