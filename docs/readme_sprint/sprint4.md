@@ -85,6 +85,7 @@
     <p style="font-size:16px"><a href="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/EDA/EDA_Open_Finance.ipynb">
 for more information visit the EDA</a></p>
 <div align="center">
+  <h2 style="font-size:24px align="center">Recommendation IA</h2>
     <h3 align="center">
         <img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/IA.gif" alt="" /><br />
     </h3>
