@@ -70,6 +70,7 @@
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Client">Frontend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Server">Backend</a></p>
 <p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Scraper">Scrapper</a></p>
+<p style="font-size:24px"><a href="https://github.com/ThomasPalma1/FatecAPI-Dataset.git">Dataset</a></p>
 
 </div>
 <h2> 🏆 Minimum Viable Product - Sprint 4</h2>
